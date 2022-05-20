@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+csv/
+model/
+*.csv
+*.crc
+*.cor
+*.log
+*.pyc
+*.npy
+*.zip
+*.cor
+*.pkl
+*.json
+*.out
